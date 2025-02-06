@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 In this project, we'll simulate some helpdesk tickets and work through them to resolution. Before we start anything, make sure the Maintenance department is deleted as tickets somehow get routed here. Login as an admin,
-hover over agents (big tab) and click on departments. Check the Maintenance department, click More then delete. Now we can begin.
+ go to agents and click on departments. Check the Maintenance department, click More then delete. Now we can begin.
 
 Go to http://localhost/osTicket and open a new ticket. Let's create a ticket about a user named Karen and is reporting that their company's mobile/online banking system is down.
 </p>
